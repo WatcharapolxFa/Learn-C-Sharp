@@ -1,0 +1,7 @@
+C:\Users\watcharaopol.yot\source\repos\Basic-Programming\Basic-Programming\bin\Debug\Basic-Programming.exe.config
+C:\Users\watcharaopol.yot\source\repos\Basic-Programming\Basic-Programming\bin\Debug\Basic-Programming.exe
+C:\Users\watcharaopol.yot\source\repos\Basic-Programming\Basic-Programming\bin\Debug\Basic-Programming.pdb
+C:\Users\watcharaopol.yot\source\repos\Basic-Programming\Basic-Programming\obj\Debug\Basic-Programming.csproj.AssemblyReference.cache
+C:\Users\watcharaopol.yot\source\repos\Basic-Programming\Basic-Programming\obj\Debug\Basic-Programming.csproj.CoreCompileInputs.cache
+C:\Users\watcharaopol.yot\source\repos\Basic-Programming\Basic-Programming\obj\Debug\Basic-Programming.exe
+C:\Users\watcharaopol.yot\source\repos\Basic-Programming\Basic-Programming\obj\Debug\Basic-Programming.pdb
