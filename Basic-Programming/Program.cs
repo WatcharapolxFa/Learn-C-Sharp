@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,14 +10,14 @@ namespace Basic_Programming
     {
         static void Main(string[] args)
         {
-            int a = 10;
-            float b = 10.00f;
-            int number = 1234567; 
-            Console.WriteLine(" Hello World ! ");
-            Console.WriteLine("Number = {0:E}", number);
-            Console.WriteLine("Number = {0:G}",number);
-            Console.WriteLine("Number = {0:N}", number);
-            Console.WriteLine("Number = {0:x}", number);
+            double weight, hight;
+            Console.WriteLine("   BMI  ");
+            Console.Write("Please enter your weight : ");
+            double.TryParse(Console.ReadLine(), out weight);
+            Console.Write("Please enter your hight : ");
+            double.TryParse(Console.ReadLine(), out hight);
+            double bmi = weight / hight * hight;
+            Console.WriteLine("BMI = {0}",bmi);
             Console.ReadKey();
         }
     }
