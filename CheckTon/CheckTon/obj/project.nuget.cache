@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "1FaviYttqJv82U8qI+CkTlCKyhqexq59eq9tfqa456RsH5yMA2IdVhDdPSRTbDR8iKl5th9C1hOXT/qlaXTkpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\watcharaopol.yot\\source\\repos\\CheckTon\\CheckTon\\CheckTon.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus.ntbx.tech/repository/ntb-nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
